@@ -1,4 +1,4 @@
 # hello-world
 First git repository on purpose 
 
-#Learning Github is great
+#Learning Github is awsome
